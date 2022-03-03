@@ -2,4 +2,6 @@
 
 An interactive app that allows you to schedule your workday. It uses jQuery to save what you have planned at the click of a button. It does this through using LocalStorage on the computer.
 
-Link: 
+Link: https://vidurham.github.io/workday-scheduler/
+
+Screenshot of App: ![Screenshot of Workday Scheduler](/Develop/screenshot.JPG)
